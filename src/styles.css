@@ -8,3 +8,23 @@
  box-sizing: border-box;
  
   }
+
+  section{
+    padding: 28px 8%;
+  }
+
+  .btn-default {
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+width: 48px;
+height: 49.09px;
+left: 326px;
+top: 479px;
+
+background: #136F63;
+border-radius: 24px;
+
+}
