@@ -42,19 +42,10 @@ Inclua um link ou GIF que demonstre o funcionamento do projeto:![pequeno video d
    cd landing-page-com-commit
    ```
 
-3. Instale as dependências (se aplicável):
-   ```bash
-   npm install
-   ```
 
 ### Executando o projeto
 
-1. Inicie o servidor de desenvolvimento (se aplicável):
-   ```bash
-   npm start
-   ```
-
-2. Abra o navegador e acesse: [http://localhost:3000](http://localhost:3000).
+1. Abra o navegador e acesse: [http://localhost:5500](http://localhost:5500).
 
 ## 🔧 Estrutura do Projeto
 
@@ -65,15 +56,9 @@ landing-page-com-commit/
 │   ├── javascript/
 │   ├── styles/
 ├── index.html
-├── README.md
+├──package.json
+├──README.md
 ```
-
-## 🔬 Testes
-
-1. Execute os testes (se aplicável):
-   ```bash
-   npm test
-   ```
 
 
 ## ⚖ Contribuições
